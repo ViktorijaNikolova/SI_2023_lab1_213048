@@ -1,0 +1,13 @@
+User@DESKTOP-6AQB2EK MINGW64 ~/Desktop/softversko labs/SI_2023_lab1_213048 (master)
+$ git log
+commit d736dd7eff9cf9bb6f0f679580b4be99056907f7 (HEAD -> master, origin/master)
+Author: ViktorijaNikolova <viktorija.nikolova@students.finki.ukim.mk>
+Date:   Sat Apr 8 20:58:40 2023 +0200
+
+    Add java class
+
+commit 7e6ea225ac258156fe71d1e3cfb56d25661e1962
+Author: ViktorijaNikolova <viktorija.nikolova@students.finki.ukim.mk>
+Date:   Sat Apr 8 20:54:18 2023 +0200
+
+    Initial commit
