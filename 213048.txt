@@ -1,0 +1,25 @@
+4.mkdir SI_2023_lab1_213048-se kreira direktorium
+  cd SI_2023_lab1_213048-vleguvame vo toj direktorium
+  git init- go inicializirame da bide nase lokalno repo
+5.git remote add origin https://github.com/ViktorijaNikolova/SI_2023_lab1_213048.git -so ovaa komanda se povrzuva moeto lokalno repo so remote repoto
+6. nano README.md-ja kreiram datotekata
+   git add README.md- dodavanje na scena
+   git commit -m "Initial commit"-se pravi commit na datotekata
+7.nano SILab1.java-ja kreiram datotekata
+   git add SILab1.java- dodavanje na scena
+   git commit -m "Add java class"-se pravi commit na datotekata
+8.git push origin master-sinhronizirani se site granki so remote repoto
+27.nano logs.txt
+   git add logs.txt
+   git commit -m "Final commit"
+   git add 213048.txt
+   git commit -m "Final commit"
+28.git push origin master-sinhronizirani se site granki so remote repoto
+
+
+
+
+
+
+
+
